@@ -11,5 +11,5 @@
 /log/*
 !/log/.keep
 /tmp
-config/secret.yaml
-config/database.yaml
+/config/secret.yaml
+/config/database.yaml
